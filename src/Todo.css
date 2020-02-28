@@ -1,0 +1,14 @@
+.todo-list{
+    margin: 5px 25%;
+}
+.todo-list-item{
+    margin: 5px;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.todo-list-item-text{
+    margin: 0;
+    display: inline-block;
+}

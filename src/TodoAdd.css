@@ -1,0 +1,25 @@
+.input-todo{
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 400px;
+}
+.form-check-input{
+    padding: 0px 20px;
+}
+.priority-check-form{
+    margin: 5px;
+}
+.add-btn-todo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background: #2980b9;
+    color: white;
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+}

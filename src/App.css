@@ -1,0 +1,31 @@
+body{
+    background-color: #3498db
+}
+.text-center{
+    text-align: center;
+}
+.text-color-white{
+    color: white;
+}
+.add-btn{
+    border: none;
+    background-color: #2980b9;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.message{
+    font-size: 18px;
+    font-weight: bold;
+}
+.form-group{
+    padding: 30px;
+}
+.form-priority{
+    padding: 10px 8px;
+}
